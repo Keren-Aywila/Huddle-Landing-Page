@@ -18,11 +18,10 @@ Users should be able to:
 
 ### Screenshot
 ![Screenshot-desktop](https://user-images.githubusercontent.com/109693496/194650062-b474b413-7610-46c5-b338-dc7237b946bc.png)
-![Screenshot-mobile](https://user-images.githubusercontent.com/109693496/194650098-50b5c2f2-3816-4010-a4ae-1c46dbce7b09.png)
 
 ### Links
 - Solution URL: []
-- Live Site URL: []
+- Live Site URL: [https://keren-aywila.github.io/Huddle-Landing-Page/]
 ### Built with
 
 - Semantic HTML5 markup
