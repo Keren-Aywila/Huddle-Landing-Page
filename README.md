@@ -20,7 +20,7 @@ Users should be able to:
 ![Screenshot-desktop](https://user-images.githubusercontent.com/109693496/194650062-b474b413-7610-46c5-b338-dc7237b946bc.png)
 
 ### Links
-- Solution URL: []
+- Solution URL: [https://github.com/Keren-Aywila/Huddle-Landing-Page.git]
 - Live Site URL: [https://keren-aywila.github.io/Huddle-Landing-Page/]
 ### Built with
 
